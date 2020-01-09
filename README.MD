@@ -18,3 +18,6 @@ uses Guava cache, but that's just an otpional implementation
 ## Jar package available from:
 
 http://pazsitz.hu/repo/hu/pazsitz/methodcaching/0.0.1-SNAPSHOT/methodcaching-0.0.1-SNAPSHOT.jar
+
+## further reading for details:
+http://dev.pazsitz.hu/class-method-caching/
